@@ -7,6 +7,7 @@ export default {
         // Primary
         "ppc-dark-cyan": "hsl(158, 36%, 37%)",
         "ppc-cream": "hsl(30, 38%, 92%)",
+        "ppc-very-dark-cyan": "hsl(156, 42%, 18%)",
         // Neutral
         "ppc-very-dark-blue": "hsl(212, 21%, 14%)",
         "ppc-dark-grayish-blue": "hsl(228, 12%, 48%)",
