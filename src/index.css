@@ -4,5 +4,5 @@
 
 html {
   /* font-size: clamp(1rem, 0.75rem + 1.5vw, 2rem); */
-  font-size: clamp(0.5rem, 0.7rem + 1.5vw, 2rem);
+  font-size: clamp(0.5rem, 0.7rem + 1.5vw, 1.025rem);
 }
